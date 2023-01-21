@@ -7,3 +7,7 @@ korn_color= nu_palettes("korn")
 
 korn_color
 ```
+```
+print.palette(korn_color)
+```
+
